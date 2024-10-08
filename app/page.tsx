@@ -5,6 +5,7 @@ import HyperTextAnimation from "./_components/HyperTextAnimation";
 import WordRotateDemo from "./_components/WordRotateDemo";
 import TypingAnimationDemo from "./_components/TypingAnimationDemo";
 import ButtonDock from "./_components/ButtonDock";
+import ShimmerButtonDemo from "./_components/ShimmerButtonDemo";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <GradientAnimateText />
       <ScrollTextColorChange />
       <WordRotateDemo />
+      <ShimmerButtonDemo/>
     </>
   );
 }

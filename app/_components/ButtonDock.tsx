@@ -22,6 +22,18 @@ export default function ButtonDock() {
         <DockIcon>
           <Icons.whatsapp className="size-6" />
         </DockIcon>
+        <DockIcon>
+          <Icons.gitHub className="size-6" />
+        </DockIcon>
+        <DockIcon>
+          <Icons.googleDrive className="size-6" />
+        </DockIcon>
+        <DockIcon>
+          <Icons.notion className="size-6" />
+        </DockIcon>
+        <DockIcon>
+          <Icons.whatsapp className="size-6" />
+        </DockIcon>
       </Dock>
     </div>
   );
