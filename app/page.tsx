@@ -11,12 +11,12 @@ export default function Home() {
   return (
     <>
       <ButtonDock/>
-      <TypingAnimationDemo/>
+      {/* <TypingAnimationDemo/>
       <CoolModeAnimate />
       <HyperTextAnimation/>
       <GradientAnimateText />
       <ScrollTextColorChange />
-      <WordRotateDemo />
+      <WordRotateDemo /> */}
       <ShimmerButtonDemo/>
     </>
   );
